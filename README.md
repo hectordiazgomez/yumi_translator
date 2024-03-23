@@ -1,5 +1,5 @@
 # Spanish to Awajun Translator
-This repository contains the code and resources for training a sequence-to-sequence model to translate from Spanish to Awajun, an indigenous language spoken in the Peruvian Amazon.
+A language translator trained using NNLB from Meta. The initial version of this repository was made using a sequence-to-sequence model to translate from Spanish to Awajun, an indigenous language spoken in the Peruvian Amazon.
 
 ## Project Status
 This is the first version of the translation model. We are actively gathering more data and seeking partners to collaborate with us in order to improve the model's performance and make it a fully usable product.
